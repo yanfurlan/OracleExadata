@@ -32,7 +32,6 @@ A arquitetura do Oracle Exadata é composta por:
 - **InfiniBand Network**: Conecta servidores de banco e armazenamento com baixa latência e alta largura de banda.
 - **Software Exadata**: Inclui funcionalidades como Smart Scan, Hybrid Columnar Compression, Storage Indexes, etc.
 
-![Arquitetura](https://docs.oracle.com/en/engineered-systems/exadata-cloud-at-customer/dbecg/img/cloud-infra.png)
 
 ---
 
