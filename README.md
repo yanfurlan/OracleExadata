@@ -1,7 +1,5 @@
 # Oracle Exadata para DBAs
 
-![Oracle Exadata](https://www.oracle.com/a/ocom/img/cw35-exadata-cloud-infrastructure.jpg)
-
 ## 📘 Visão Geral
 
 O **Oracle Exadata** é uma plataforma de hardware e software desenvolvida especificamente para executar bancos de dados Oracle com o máximo desempenho, escalabilidade e confiabilidade. Projetado para ambientes corporativos críticos, o Exadata combina servidores otimizados, armazenamento inteligente, redes de alta velocidade e software Oracle avançado para oferecer uma experiência de banco de dados inigualável.
